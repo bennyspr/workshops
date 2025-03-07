@@ -13,8 +13,10 @@
 Click on the Kali Linux icon or use the keyboard shortcut <kbd>Ctrl + Alt + T</kbd>.
 
 **Print Working Directory**
-   
-`pwd`
+
+```bash
+pwd
+```
     
 This command shows your current location in the filesystem (e.g., `/home/kali`).
 
