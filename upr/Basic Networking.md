@@ -166,7 +166,8 @@ netstat -tulnp
 
 ![TCP vs UDP Communication](https://www.colocationamerica.com/wp-content/uploads/2018/12/udp-tcp.jpg)
 
-![How TCP works - IRL](https://youtu.be/R6WN4_bBB1Q?si=tQtPG7OL6tIeMnVU)
+[![How TCP works - IRL](https://i.ytimg.com/vi/R6WN4_bBB1Q/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBLKEkwDw==&rs=AOn4CLAqQk4OzTmBHxvf6FLvXxIYGb_ZoQ)](https://youtu.be/R6WN4_bBB1Q?si=tQtPG7OL6tIeMnVU)
+
 
 #### Exercise: Capture TCP/UDP Traffic
 ```bash
