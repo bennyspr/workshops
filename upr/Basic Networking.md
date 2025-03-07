@@ -166,6 +166,8 @@ netstat -tulnp
 
 ![TCP vs UDP Communication](https://www.colocationamerica.com/wp-content/uploads/2018/12/udp-tcp.jpg)
 
+![How TCP works - IRL](https://youtu.be/R6WN4_bBB1Q?si=tQtPG7OL6tIeMnVU)
+
 #### Exercise: Capture TCP/UDP Traffic
 ```bash
 sudo tcpdump -i eth0 -n port 53
