@@ -4,7 +4,7 @@
 
 **Cross-Site Scripting (XSS)** allows attackers to inject malicious code (often JavaScript) into web pages viewed by others. Understanding how XSS works is essential for creating secure web applications.
 
-In this workshop, we’ll explore three types of XSS:
+We’ll explore three types of XSS:
 - **Reflected XSS**: The malicious payload is “reflected” back in the HTTP response.
 - **Stored XSS**: The malicious payload is **persisted** on the server (e.g., database, file) and served to others.
 - **DOM-Based XSS**: The malicious payload is executed purely on the client side via insecure JavaScript/DOM manipulation.
