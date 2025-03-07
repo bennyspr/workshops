@@ -1,7 +1,5 @@
 # Linux Command Line Practice Exercises
 
-These exercises are designed for a Kali Linux environment but will generally work on most Linux distributions. Each section provides step-by-step instructions and explanations. Feel free to modify or extend these exercises for your workshop needs!
-
 ## Prerequisites
 
 - A Kali Linux machine (physical or virtual).
