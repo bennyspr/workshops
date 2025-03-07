@@ -61,7 +61,7 @@ netstat -rn
 ### 3. Network Address Translation (NAT)
 NAT allows multiple devices on a local network to share a single public IP address when accessing the internet.
 
-![NAT](https://www.researchgate.net/publication/334557400/figure/fig4/AS:782174127128576@1563496252774/Network-Address-Translation-NAT-Working-Principle.jpg)
+![NAT](https://www.vmware.com/media/blt8c9a8aaca0ffd4ac/blt1b4d43cfd751feb5/66d1a48342d82e12814163ad/network-address-translation-diagram.png)
 
 #### Exercise: Find Your Public IP
 ```bash
