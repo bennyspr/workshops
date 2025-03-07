@@ -4,8 +4,6 @@
 - A basic understanding of Linux commands.
 - Internet access to perform some of the exercises.
 
----
-
 ## Tutorial and Exercises
 
 ### 1. Understanding IP Addresses
@@ -58,7 +56,7 @@ netstat -rn
 
 ---
 
-### 3. Network Address Translation (NAT)
+### 4. Network Address Translation (NAT)
 NAT allows multiple devices on a local network to share a single public IP address when accessing the internet.
 
 ![NAT](https://www.vmware.com/media/blt8c9a8aaca0ffd4ac/blt1b4d43cfd751feb5/66d1a48342d82e12814163ad/network-address-translation-diagram.png)
@@ -70,7 +68,7 @@ curl ifconfig.me
 
 ---
 
-### 4. Domain Name System (DNS)
+### 5. Domain Name System (DNS)
 DNS translates domain names (e.g., `www.example.com`) into IP addresses (e.g., `12.34.56.78`).
 
 ![DNS](https://lh6.googleusercontent.com/9HL6XqrvIqt7YlVfRsCp9dpVfg6sj8aJ-M1FO-nzL0XLkGLpOBbe_orlVbdo9VeGpGFHFMgi_POOGzi83HGl1A1dHkZDfDsaC0XdZ2SzyBJ0bLy84ABckxC74a17mX11RcyyK_3QMIAu5sMl2dqfAUXZ6wmUGtZzEqxKGCnTX-uhEpcOUN8oazTf8Ccm5A)
@@ -83,7 +81,7 @@ nslookup google.com
 
 ---
 
-### 5. Using `host` and `nslookup`
+### 6. Using `host` and `nslookup`
 The `host` command is a simple tool for performing DNS lookups. It is available on Linux and macOS by default.
 
 ```bash
@@ -116,7 +114,7 @@ nslookup google.com 8.8.8.8
 
 ---
 
-### 6. Tracing Network Routes with `traceroute`
+### 7. Tracing Network Routes with `traceroute`
 The `traceroute` command shows the path data packets take from your device to a destination.
 
 ![Traceroute](https://www.cloudns.net/blog/wp-content/uploads/2021/03/Traceroute-command-ClouDNS-3.png)
@@ -128,7 +126,7 @@ traceroute google.com
 
 ---
 
-### 7. Understanding Ports
+### 8. Understanding Ports
 Ports are communication endpoints. Common ports include:
 - **80**: HTTP
 - **443**: HTTPS
@@ -144,7 +142,7 @@ netstat -tuln
 
 ---
 
-### 8. Using `netstat`
+### 9. Using `netstat`
 
 The `netstat` (network statistics) command is a powerful tool used to monitor network connections, routing tables, interface statistics, and more. It is available on Linux, macOS, and Windows. In this tutorial, we will explore common netstat commands and how to interpret their output.
 
@@ -162,7 +160,7 @@ netstat -tulnp
 
 ---
 
-### 9. TCP vs UDP
+### 10. TCP vs UDP
 - **TCP**: Reliable, connection-oriented (e.g., web browsing).
 - **UDP**: Faster but connectionless (e.g., video streaming).
 
@@ -176,7 +174,7 @@ sudo tcpdump -i eth0 -n port 53
 
 ---
 
-### 10. Using `nc` (Netcat)
+### 11. Using `nc` (Netcat)
 Netcat is a powerful tool for reading and writing network connections.
 
 #### Interactive Exercise: Chat with a Partner
@@ -194,7 +192,7 @@ Netcat is a powerful tool for reading and writing network connections.
 
 ---
 
-### 11. Testing Connectivity with `ping`
+### 12. Testing Connectivity with `ping`
 
 The `ping` command checks network connectivity and measures response time.
 
