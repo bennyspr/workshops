@@ -34,9 +34,9 @@ We’ll explore three types of XSS:
 
     Then open your browser at http://localhost:8080/. You can access each file by going to:
 
-    http://localhost:8080/reflected.php
-    http://localhost:8080/stored.php
-    http://localhost:8080/dom.html
+    - http://localhost:8080/reflected.php
+    - http://localhost:8080/stored.php
+    - http://localhost:8080/dom.html
 
 ## Exercise 1: Reflected XSS (PHP)
 
