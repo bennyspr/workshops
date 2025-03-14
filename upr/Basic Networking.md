@@ -1,9 +1,5 @@
 # Basic Networking
 
-## Prerequisites
-- A basic understanding of Linux commands.
-- Internet access to perform some of the exercises.
-
 ## Tutorial and Exercises
 
 ### 1. Understanding IP Addresses
