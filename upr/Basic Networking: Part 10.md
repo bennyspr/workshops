@@ -195,7 +195,7 @@ More Info: https://aws.amazon.com/what-is/cidr/
 Every network device, such as computers, routers, and smartphones, has a unique **MAC address** assigned to its network interface card (NIC). This address is used for device identification and communication within local networks (LANs).
 
 
-![MAC](https://media.fs.com/images/ckfinder/ftp_images/tutorial/mac-addresse-numbers.jpg)
+![MAC](https://tecadmin.net/wp-content/uploads/2023/06/MAC-Address.png)
 
 Check MAC addresses:
    ```sh
