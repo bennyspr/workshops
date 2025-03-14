@@ -1,4 +1,4 @@
-# Web Security Workshop: JavaScript Injection & XSS
+# Web Security: JavaScript Injection & XSS
 
 ## Introduction
 
