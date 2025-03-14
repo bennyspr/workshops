@@ -1,7 +1,5 @@
 # Basic Networking
 
-## Tutorial and Exercises
-
 ### 1. Understanding IP Addresses
 An **IP (Internet Protocol) address** is a unique identifier assigned to a device in a network, allowing communication between devices. 
 
