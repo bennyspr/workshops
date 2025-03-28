@@ -13,3 +13,5 @@
 [Basic Networking: Part 10](https://github.com/bennyspr/workshops/blob/main/upr/Basic%20Networking%3A%20Part%2010.md)
 
 [WEPA Demo](https://github.com/bennyspr/workshops/blob/main/upr/WEPA%20Demo.md)
+
+[Cryptography: Encrypting & Decrypting Files](https://github.com/bennyspr/workshops/blob/main/upr/Cryptography%3A%20Encrypting%20%26%20Decrypting%20Files.md)
