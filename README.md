@@ -15,3 +15,5 @@
 [WEPA Demo](https://github.com/bennyspr/workshops/blob/main/upr/WEPA%20Demo.md)
 
 [Cryptography: Encrypting & Decrypting Files](https://github.com/bennyspr/workshops/blob/main/upr/Cryptography%3A%20Encrypting%20%26%20Decrypting%20Files.md)
+
+[Cryptography: Practice Exercises](https://github.com/bennyspr/workshops/blob/main/upr/Cryptography:%20Practice%20Exercises.md)
