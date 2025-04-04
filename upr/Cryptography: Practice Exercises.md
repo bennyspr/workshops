@@ -14,8 +14,8 @@ For the following encrypted texts, find the plaintext message using the Caesar C
 
 For the following encrypted texts, find the plaintext using the **Vigenère Cipher** and the given keys:
 
-1. **Key**: `code`  
-   > vs dsmz wz yxzvvud
+1. **Key**: `ccom`  
+   > gn gmrq rq pchgtczqu
 
 2. **Key**: `pirate`  
    > ml, zaaum shf bgu lgdcd ztatx ts dqgcy  
